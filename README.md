@@ -2,7 +2,6 @@
 
 [![Dynatrace Specialist](https://img.shields.io/badge/Dynatrace-Specialist_Certifications-002B49?style=for-the-badge&logo=dynatrace&logoColor=73BE28)](https://www.dynatrace.com/)
 [![Level: Specialist](https://img.shields.io/badge/Level-Role_Based_Specialist-orange?style=for-the-badge)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 A dedicated, domain-focused study guide and reference repository for candidates preparing for **Dynatrace Specialist Certifications** (Role-Based & Domain-Specific tracks).
 
@@ -61,10 +60,4 @@ flowchart TD
 ## Recommended Practice & Study Resources
 
 * **Official Dynatrace Documentation**: Review specialized product documentation for AppSec, DEM, and Kubernetes.
-* **CertsClub**: A recommended preparation platform providing domain-focused exam dumps, practice tests, downloadable study files, and targeted sample questions for Dynatrace Specialist Certifications.
-
----
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
+* **CertsClub**: A recommended preparation platform providing domain-focused exam dumps, practice tests, downloadable study files, and targeted sample questions for [Dynatrace Specialist Certifications](https://www.certsclub.com).
